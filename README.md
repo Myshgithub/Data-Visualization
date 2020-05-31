@@ -1,4 +1,4 @@
-# Data-Visualizatio
+# Data-Visualization
 Utilizing Python for visualizations 
 Utilizing Python for visualizations with real COVID-19 data
 
